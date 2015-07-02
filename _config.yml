@@ -1,0 +1,10 @@
+# Site settings
+title: Chris Mayes
+description: > # this means to ignore newlines until "baseurl:"
+  Chris Mayes's website.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.cmayes.com" # the base hostname & protocol for your site
+github_username: cmayes
+
+# Build settings
+markdown: kramdown
