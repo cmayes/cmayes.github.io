@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About
-permalink: /about/
 ---
 Hello!  I'm a programmer who mainly uses [Java][java] for work and [Python][python] 
 at home. I'm primarily [Linux][linux]-based at home (I have [Kubuntu][kubuntu] on 
