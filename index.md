@@ -13,15 +13,17 @@ I am moving to [IntelliJ IDEA][idea] as my IDE of choice. I'd previously used
 have thus far prevented me from becoming truly proficient.
 
 I've toyed with many programming languages in the past ([Ruby][ruby], 
-[Clojure][clojure], and [Fantom][fantom], among others) and have plans to learn 
-many others.  I'm an advocate for using the right tool for the job, so it's useful
-to make a periodic survey of the state of the software development world.
+[Clojure][clojure], [Rust][rust], and [Fantom][fantom], among others) and have 
+plans to learn many others.  I'm an advocate for using the right tool for the job, 
+so it's useful to make a periodic survey of the state of the software development 
+world.
 
 Here are a few of the places where I have a Web presence:
 
 * [Github][github]
 * [Google Plus][gplus]
 * [LinkedIn][linkedin]
+* [Pocket][pocket]
 
 [idea]:     https://www.jetbrains.com/idea/
 [eclipse]:  https://eclipse.org/
@@ -30,9 +32,11 @@ Here are a few of the places where I have a Web presence:
 [github]:   http://github.com/cmayes/
 [gplus]:    http://google.com/+ChrisMayes
 [linkedin]: https://www.linkedin.com/in/mcmayes
+[pocket]:   https://getpocket.com/@cmayes3
 [ruby]:     https://www.ruby-lang.org/
 [clojure]:  http://clojure.org/
 [fantom]:   http://fantom.org/
+[rust]:     https://www.rust-lang.org/
 [java]:     http://www.oracle.com/technetwork/java/
 [python]:   https://www.python.org/
 [linux]:    http://www.linuxfoundation.org/
