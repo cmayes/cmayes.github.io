@@ -3,7 +3,7 @@ layout: page
 ---
 Hello!  I'm a programmer who mainly uses [Java][java] and [Scala][scala] for work and 
 [Python][python] 
-at home. I'm primarily [Linux][linux]-based at home (I have [Kubuntu][kubuntu] on 
+at home. I'm primarily [Linux][linux]-based at home (I have [Mint][mint] on 
 my primary dev machine) and have used a [Mac][mac] (deploying to [RHEL][rhel]) at work. 
 I know enough shell scripting to get my launch environment set up but prefer Python 
 for any serious scripting work. 
@@ -44,3 +44,4 @@ Here are a few of the places where I have a web presence:
 [rhel]:     https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
 [kotlin]:   https://kotlinlang.org/
 [scala]:    https://www.scala-lang.org/
+[mint]:     https://linuxmint.com/
