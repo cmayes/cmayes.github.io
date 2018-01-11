@@ -18,10 +18,9 @@ plans to learn many others.  I'm an advocate for using the right tool for the jo
 so it's useful to make a periodic survey of the state of the software development 
 world.
 
-Here are a few of the places where I have a Web presence:
+Here are a few of the places where I have a web presence:
 
 * [Github][github]
-* [Google Plus][gplus]
 * [LinkedIn][linkedin]
 * [Pocket][pocket]
 
@@ -30,7 +29,6 @@ Here are a few of the places where I have a Web presence:
 [emacs]:    https://www.gnu.org/software/emacs/
 [vim]:      http://www.vim.org/
 [github]:   http://github.com/cmayes/
-[gplus]:    http://google.com/+ChrisMayes
 [linkedin]: https://www.linkedin.com/in/mcmayes
 [pocket]:   https://getpocket.com/@cmayes3
 [ruby]:     https://www.ruby-lang.org/
