@@ -21,7 +21,7 @@ job, so it's useful to make a periodic survey of the state of the software devel
 
 Here are a few of the places where I have a web presence:
 
-* <a rel="me" href="https://mas.to/@cmayes">Mastodon</a>
+* <a rel="me" href="https://notacult.social/@cmayes">Mastodon</a>
 * [Github][github]
 * [LinkedIn][linkedin]
 * [Pocket][pocket]
